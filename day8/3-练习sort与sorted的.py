@@ -1,7 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年01月02日16时01分34秒
-# xxx@qq.com
-
 
 my_list = "This is a test string from Andrew".split()
 print(my_list)
